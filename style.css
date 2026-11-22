@@ -9,3 +9,4 @@ footer{margin-top:48px;color:var(--muted);font-size:14px}
 table{border-collapse:collapse;width:100%;margin:16px 0;font-size:16px}th,td{text-align:left;padding:8px;border-bottom:1px solid #ddd;vertical-align:top}th{color:var(--deep)}
 .cta{margin:32px 0;padding:16px;border-left:4px solid var(--teal);background:#eef6f5}.cta p{margin:0}
 .answer{font-size:18px}nav.crumb{font-size:14px;margin-bottom:8px}
+details{border-bottom:1px solid #ddd;padding:10px 0}summary{cursor:pointer;font-weight:600;color:var(--deep)}details p{margin:8px 0 0}
