@@ -6,3 +6,6 @@ h1{color:var(--deep);margin:0 0 4px;font-size:32px}h1 .s{color:var(--teal)}
 h2{color:var(--deep);margin-top:32px;font-size:21px;text-transform:uppercase;letter-spacing:.04em}
 .sub{color:var(--muted);margin:0}a{color:var(--deep);font-weight:600}
 footer{margin-top:48px;color:var(--muted);font-size:14px}
+table{border-collapse:collapse;width:100%;margin:16px 0;font-size:16px}th,td{text-align:left;padding:8px;border-bottom:1px solid #ddd;vertical-align:top}th{color:var(--deep)}
+.cta{margin:32px 0;padding:16px;border-left:4px solid var(--teal);background:#eef6f5}.cta p{margin:0}
+.answer{font-size:18px}nav.crumb{font-size:14px;margin-bottom:8px}
